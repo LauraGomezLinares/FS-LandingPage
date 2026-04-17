@@ -6,7 +6,7 @@ function Navbar() {
       
       <div class="container">
         
-        <a class="navbar-brand d-md-none" href="#">    
+        <a class="navbar-brand d-md-none" href="/About">    
             <img src="https://i.pinimg.com/474x/db/86/97/db8697a3829e34079b0b3db8bd318796.jpg"
             width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
           Dinosaur
@@ -47,28 +47,28 @@ function Navbar() {
             <ul class="navbar-nav flex-grow-1 justify-content-between">
               
               <li class="nav-item">
-                <a class="nav-link" href="#" aria-label="Aperture">
+                <a class="nav-link" href="/About" aria-label="Aperture">
                   
                   <img src="https://i.pinimg.com/474x/db/86/97/db8697a3829e34079b0b3db8bd318796.jpg"
             width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="/About">
                   Sobre mí
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
-                  Product
+                <a class="nav-link" href="/Projects">
+                  Proyectos
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">
-                  Features
+                <a class="nav-link" href="/Contact">
+                  Contactame
                 </a>
               </li>
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <a class="nav-link" href="#">
                   Enterprise
                 </a>
@@ -82,9 +82,10 @@ function Navbar() {
                 <a class="nav-link" href="#">
                   Pricing
                 </a>
-              </li>
+              </li>*/}
+              
               <li class="nav-item">
-                <a class="nav-link" href="#" aria-label="Cart">
+                <a class="nav-link" href="/Footer" aria-label="Cart">
                   
                   <img src="https://tr.rbxcdn.com/180DAY-b3f2f8376f04813d283818d51841e229/420/420/Hat/Webp/noFilter"
             width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>

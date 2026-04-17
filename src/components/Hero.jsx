@@ -22,14 +22,14 @@ function Hero() {
         </h3>
         <div class="d-flex gap-3 justify-content-center lead fw-normal">
           
-          <a class="icon-link" href="#">
-            Learn more
+          <a class="icon-link" href="https://www.youtube.com/watch?v=q0ZpOgpEiqs" target="_blank" rel="noreferrer">
+            Mas sobre mi
             <svg class="bi" aria-hidden="true">
               <use xlinkhref="#chevron-right"></use>
             </svg>
           </a>
-          <a class="icon-link" href="#">
-            Buy
+          <a class="icon-link" href="https://www.youtube.com/watch?v=z3-LclUSUXk" target="_blank" rel="noreferrer">
+            Por $20 me callo
             <svg class="bi" aria-hidden="true">
               <use xlinkhref="#chevron-right"></use>
             </svg>

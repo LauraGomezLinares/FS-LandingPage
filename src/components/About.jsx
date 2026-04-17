@@ -17,7 +17,7 @@ function About() {
           <p>
             Ingeniera de software interesada en el desarrollo de software y videojuegos, me enfoco en mejorar mis habilidades y buenas practicas para construir proyectos que puedan resolver problemas reales.
           </p>
-          <a href="#" class="icon-link">
+          <a href="/Contact" class="icon-link">
             aaaa
             <svg class="bi" aria-hidden="true">
               <use xlinkhref="#chevron-right"></use>
@@ -35,7 +35,7 @@ function About() {
           <p>
             Java, JavaScript, TypeScript, Python, C++, Bases de datos, etc.
           </p>
-          <a href="#" class="icon-link">
+          <a href="/Contact" class="icon-link">
             aaaaaa
             <svg class="bi" aria-hidden="true">
               <use xlinkhref="#chevron-right"></use>

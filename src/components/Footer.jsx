@@ -24,17 +24,17 @@ function Footer() {
       <ul class="nav col-md-4 justify-content-end">
         
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-body-secondary">
+          <a href="/About" class="nav-link px-2 text-body-secondary">
             FAQs
           </a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-body-secondary">
+          <a href="/Contact" class="nav-link px-2 text-body-secondary">
             Contactame
           </a>
         </li>
         <li class="nav-item">
-          <a href="#" class="nav-link px-2 text-body-secondary">
+          <a href="/Contact" class="nav-link px-2 text-body-secondary">
             Form
           </a>
         </li>

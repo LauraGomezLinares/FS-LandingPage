@@ -1,13 +1,5 @@
 function Contact() {
-  {
-    /* <section className="class">
-            <h2>Contactame</h2>
-            <p>¿Trabajamos juntos? Escribeme</p>
-            <button>
-                <a href="https://wa.link/igdfen">Contactame</a>
-            </button>
-        </section>*/
-  }
+  
   return (
     <div class="container my-2" style={{fontFamily: 'bubble', color: '#d55e0f', backgroundColor: '#fff'}}>
       <div class="p-5 text-center rounded-3">
