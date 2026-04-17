@@ -36,7 +36,7 @@ function About() {
             Java, JavaScript, TypeScript, Python, C++, Bases de datos, etc.
           </p>
           <a href="#" class="icon-link">
-            Call to action
+            aaaaaa
             <svg class="bi" aria-hidden="true">
               <use xlinkhref="#chevron-right"></use>
             </svg>
