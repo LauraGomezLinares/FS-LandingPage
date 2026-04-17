@@ -8,7 +8,7 @@ function Navbar() {
         
         <a class="navbar-brand d-md-none" href="#">    
             <img src="https://i.pinimg.com/474x/db/86/97/db8697a3829e34079b0b3db8bd318796.jpg"
-            width="70" height="55" className="rounded-circle m-2" aria-hidden='false'></img>
+            width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
           Dinosaur
         </a>
 
@@ -50,7 +50,7 @@ function Navbar() {
                 <a class="nav-link" href="#" aria-label="Aperture">
                   
                   <img src="https://i.pinimg.com/474x/db/86/97/db8697a3829e34079b0b3db8bd318796.jpg"
-            width="70" height="55" className="rounded-circle m-2" aria-hidden='false'></img>
+            width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
                 </a>
               </li>
               <li class="nav-item">
@@ -87,7 +87,7 @@ function Navbar() {
                 <a class="nav-link" href="#" aria-label="Cart">
                   
                   <img src="https://tr.rbxcdn.com/180DAY-b3f2f8376f04813d283818d51841e229/420/420/Hat/Webp/noFilter"
-            width="70" height="55" className="rounded-circle m-2" aria-hidden='false'></img>
+            width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
                 </a>
               </li>
             </ul>

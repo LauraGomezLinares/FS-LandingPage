@@ -9,7 +9,7 @@ function About() {
           
           <div class="feature-icon d-inline-flex align-items-center justify-content-center  bg-gradient fs-2 mb-2">
             
-            <img src="https://i.pinimg.com/736x/7a/9d/4c/7a9d4cee27860d4c063fbac373be1fba.jpg" className="rounded-circle" width="50" height="50"></img>
+            <img src="https://i.pinimg.com/736x/7a/9d/4c/7a9d4cee27860d4c063fbac373be1fba.jpg" className="rounded-circle" width="50" height="50" alt="descripcion"></img>
 
           </div>
 
@@ -28,7 +28,7 @@ function About() {
           
           <div class="feature-icon d-inline-flex align-items-center justify-content-center bg-gradient fs-2 mb-3">
             
-            <img src="https://pbs.twimg.com/profile_images/1841228611602239504/FX6sbHZx_400x400.jpg" className="rounded-circle" width="50" height="50"></img>
+            <img src="https://pbs.twimg.com/profile_images/1841228611602239504/FX6sbHZx_400x400.jpg" className="rounded-circle" width="50" height="50" alt="descripcion"></img>
 
           </div>
           <h3 class="fs-2 text-body-emphasis">Skills</h3>

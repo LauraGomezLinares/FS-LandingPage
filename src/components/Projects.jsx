@@ -36,7 +36,7 @@ function Projects() {
 
               <ul className="d-flex list-unstyled mt-auto">
                 <li className="me-auto">
-                  <a href="https://github.com/esthersinche/v2_ProyFin_Marcos" target="_blank">
+                  <a href="https://github.com/esthersinche/v2_ProyFin_Marcos" target="_blank" rel="noreferrer">
                   <img
                     src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
                     alt="github"
@@ -46,8 +46,7 @@ function Projects() {
                   />
                   </a>
                 </li>
-
-                <li className="d-flex align-items-center me-3">
+                  {/* <li className="d-flex align-items-center me-3">
                   <svg
                     className="bi me-2"
                     width="1em"
@@ -71,7 +70,8 @@ function Projects() {
                     <use xlinkHref="#calendar3"></use>
                   </svg>
                   <small>3d</small>
-                </li>
+                </li>*/}
+                
               </ul>
             </div>
           </div>
@@ -89,7 +89,7 @@ function Projects() {
 
               <ul className="d-flex list-unstyled mt-auto">
                 <li className="me-auto">
-                  <a href="https://github.com/esthersinche/PizzaTime" target="_blank">
+                  <a href="https://github.com/esthersinche/PizzaTime" target="_blank" rel="noreferrer">
                   <img
                     src="https://cdn-icons-png.flaticon.com/512/25/25231.png"
                     alt="Bootstrap"
@@ -99,8 +99,7 @@ function Projects() {
                   />
                   </a>
                 </li>
-
-                <li className="d-flex align-items-center me-3">
+                  {/*<li className="d-flex align-items-center me-3">
                   <svg
                     className="bi me-2"
                     width="1em"
@@ -124,7 +123,8 @@ function Projects() {
                     <use xlinkHref="#calendar3"></use>
                   </svg>
                   <small>4d</small>
-                </li>
+                </li> */}
+                
               </ul>
             </div>
           </div>
@@ -150,8 +150,7 @@ function Projects() {
                     className="rounded-circle border border-white"
                   />
                 </li>
-
-                <li className="d-flex align-items-center me-3">
+                  {/* <li className="d-flex align-items-center me-3">
                   <svg
                     className="bi me-2"
                     width="1em"
@@ -175,7 +174,8 @@ function Projects() {
                     <use xlinkHref="#calendar3"></use>
                   </svg>
                   <small>5d</small>
-                </li>
+                </li>*/}
+                
               </ul>
             </div>
           </div>

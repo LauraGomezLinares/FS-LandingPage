@@ -16,9 +16,9 @@ function Footer() {
         </svg>
       </a>*/}
       <a href="https://github.com/LauraGomezLinares" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none"
-        aria-label="github" target="_blank">
+        aria-label="github" target="_blank" rel="noreferrer">
          <img src="https://static.wikia.nocookie.net/hellokitty/images/3/30/Sanrio_Characters_Pompompurin_Image006.png" 
-         width="70" height="55" className="rounded-circle m-2" aria-hidden='false'></img>
+         width="70" height="55" className="rounded-circle m-2" aria-hidden='false' alt="descripcion"></img>
       </a>
       
       <ul class="nav col-md-4 justify-content-end">
