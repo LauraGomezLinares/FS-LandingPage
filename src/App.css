@@ -184,6 +184,10 @@
 ::before {
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'bubble';
+    src: url('./components/assets/GFSCUS1D.ttf');
+}
 @media (prefers-reduced-motion: no-preference) {
     :root {
         scroll-behavior: smooth;
